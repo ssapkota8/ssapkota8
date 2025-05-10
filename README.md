@@ -12,25 +12,25 @@ To leverage my hands-on experience with cybersecurity tools and labs to contribu
 
 ## 💡 Skills
 
-| Skill                                         | Associated Project                                                                 |
-|----------------------------------------------|-------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis         | [Detection Lab](https://github.com/ssapkota8/detection-lab)                     |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/yourusername/detection-lab)                   |
-| Security Automation with Shuffle SOAR        | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
-| Incident Response Planning and Execution     | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
-| Case Management with TheHive                 | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/yourusername/soc-automation-project) |
+## | Skill                                         | Associated Project                                                                 |
+## |----------------------------------------------|-------------------------------------------------------------------------------------|
+## | SIEM Implementation and Log Analysis         | [Detection Lab](https://github.com/ssapkota8/detection-lab)                     |
+## | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/yourusername/detection-lab)                   |
+## | Security Automation with Shuffle SOAR        | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
+## | Incident Response Planning and Execution     | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
+## | Case Management with TheHive                 | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
+## | Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/yourusername/soc-automation-project) |
 
 ---
 
 ## 🛠️ Tools
 
 ### 🌐 Network
-<div>
+## <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## </div>
 
 ### 💻 Endpoint
 <div>
