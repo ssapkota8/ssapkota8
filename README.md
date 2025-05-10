@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sudarshan Sapkota  
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin/sudarshan683.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity enthusiast passionate about threat detection, security automation, and SOC operations. Currently pursuing my Computer Systems Technician diploma at Seneca Polytechnic, I aim to start my career as a Tier 1 SOC Analyst.
 
@@ -14,7 +14,7 @@ To leverage my hands-on experience with cybersecurity tools and labs to contribu
 
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|-------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis         | [Detection Lab](https://github.com/yourusername/detection-lab)                     |
+| SIEM Implementation and Log Analysis         | [Detection Lab](https://github.com/ssapkota8/detection-lab)                     |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/yourusername/detection-lab)                   |
 | Security Automation with Shuffle SOAR        | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
 | Incident Response Planning and Execution     | [SOC Automation Project](https://github.com/yourusername/soc-automation-project)   |
