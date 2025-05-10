@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Systems Technician graduate of Seneca Polytechnic, Toronto  
 🔒 I love exploring cybersecurity, ethical hacking, and cloud infrastructure  
-🛠️ Currently building: [PhishChecker](https://your-username.github.io/phishchecker/) – a phishing email analyzer  
+🛠️ Currently building: [PhishChecker](https://ssapkota8.github.io/phishchecker/) – a phishing email analyzer  
 🌐 Skilled with: Linux • Splunk • Azure • Python • Bash • GitHub  
 🚀 Looking to collaborate on cool open-source tools, security research, or dashboards  
 📫 Reach me at: sudarshanofficial86@gmail.com  
