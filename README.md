@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @ssapkota8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Sudarshan Sapkota (@ssapkota8)
 
-<!---
-ssapkota8/ssapkota8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Systems Technician student at Seneca Polytechnic, Toronto  
+🔒 I love exploring cybersecurity, ethical hacking, and cloud infrastructure  
+🛠️ Currently building: [PhishChecker](https://your-username.github.io/phishchecker/) – a phishing email analyzer  
+🌐 Skilled with: Linux • Splunk • Azure • Python • Bash • GitHub  
+🚀 Looking to collaborate on cool open-source tools, security research, or dashboards  
+📫 Reach me at: sudarshanofficial86@gmail.com  
+😄 Pronouns: he/him  
+⚡ Fun fact: I can secure your system *and* cook a mean dal bhat 😄  
