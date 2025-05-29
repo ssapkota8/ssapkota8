@@ -19,10 +19,9 @@
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-- ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-- ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white)
+
 
 ---
 
