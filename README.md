@@ -8,7 +8,7 @@
 
 ### 💼 About Me
 
-- 🔧 Building **modern, responsive websites** and clean user interfaces  
+- 🔧 Building **modern, responsive websites** and clean user interfaces
 - 🎯 Passionate about **tech, innovation**, and exploring **data-driven decisions**  
 - 📚 Currently learning **backend systems** and **system optimization**  
 - ⚡ Always eager to expand my knowledge and embrace new challenges 
